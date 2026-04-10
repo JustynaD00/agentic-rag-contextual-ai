@@ -4,7 +4,7 @@ This project implements an end-to-end Retrieval-Augmented Generation (RAG) pipel
 
 <ins>This work was developed by following and adapting concepts from the rag_techniques repository [(https://github.com/NirDiamant/rag_techniques)].
 
-Additional debugging, experimentation, and evaluation steps were implemented independently.<ins>
+<ins>Additional debugging, experimentation, and evaluation steps were implemented independently.<ins>
 
 **🚀 Project Overview**
 
