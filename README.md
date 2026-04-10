@@ -38,7 +38,8 @@ Reduces hallucinations and improves factual accuracy
 6. Evaluation (LMUnit)
 Responses are evaluated for groundedness and quality
 Helps assess reliability before deployment
-🧪 Experiments & Observations
+
+**🧪 Experiments & Observations**
 
 The project includes several practical experiments:
 
@@ -46,7 +47,9 @@ Comparing grounded vs non-grounded responses
 Analysing the impact of reranking on retrieval quality
 Testing behaviour with irrelevant knowledge
 Evaluating the effect of avoid_commentary on outputs
-📊 Key Insights
+**
+📊 Key Insights**
+
 Reranking significantly improves relevance when multiple documents are retrieved
 Grounded generation reduces unsupported or hallucinated answers
 Poor or irrelevant knowledge negatively impacts output quality
