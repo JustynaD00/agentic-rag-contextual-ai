@@ -62,13 +62,14 @@ Requests
 Retrieval-Augmented Generation (RAG) concepts
 
 **▶️ How to Run**
+
 Clone this repository
 Create a .env file in the project root:
 API_KEY=your_api_key_here
 Install dependencies:
 pip install python-dotenv requests
 Run the notebook:
-agentic_rag_pipeline.ipynb
+Agentic_RAG.ipynb
 
 **🔐 API Key Security**
 
