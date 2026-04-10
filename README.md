@@ -2,7 +2,9 @@
 
 This project implements an end-to-end Retrieval-Augmented Generation (RAG) pipeline using Contextual AI, exploring how modern AI systems retrieve, refine, and generate grounded responses from external knowledge sources.
 
-This work was developed by following and adapting concepts from the rag_techniques repository https://github.com/NirDiamant/rag_techniques. 
+<ins>This work was developed by following and adapting concepts from the rag_techniques repository [(https://github.com/NirDiamant/rag_techniques)].
+
+Additional debugging, experimentation, and evaluation steps were implemented independently.<ins>
 
 **🚀 Project Overview**
 
